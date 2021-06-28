@@ -1,0 +1,19 @@
+{
+  "name": "tryinghard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIDI-05/tryinghard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MIDI-05/tryinghard/issues"
+  },
+  "homepage": "https://github.com/MIDI-05/tryinghard#readme"
+}
